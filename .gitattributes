@@ -3,5 +3,5 @@
 *.css linguist-vendored=false
 *.css linguist-generted=false
 
-*.html linguist-language=Python
-*.css linguist-language=Python
+*.html linguist-language=Javascript
+*.css linguist-language=Javascript
